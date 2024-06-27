@@ -1,5 +1,5 @@
 # Classifying-review-Natural-language-processing
-In short we have trained our model on our dataset containing reviews of a restaurent and whether they are positive or negative
+In short we have trained our model to predict whether a review is positive or negative  
 
 In this project we have performed following steps -
 
